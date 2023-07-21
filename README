@@ -1,0 +1,5 @@
+ESP32-CAM + OTA + Photo WEB SERVER en Control Multiple Outputs WebSocket
+
+dit werkt met een Filesystem: spiffs
+
+https://randomnerdtutorials.com/esp32-vs-code-platformio-spiffs/
