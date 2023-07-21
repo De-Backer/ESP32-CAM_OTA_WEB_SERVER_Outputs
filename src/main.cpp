@@ -12,7 +12,7 @@
 #include <FS.h>
 
 #warning -------------------Warning secrets!!------------------------
-#include "secrets.h" //deze moet je zelf maar maken :)
+#include "secrets.h" //deze moet je zelf maar maken :) en in de map include zetten
 
 #ifndef WIFI_SSID
 #define WIFI_SSID "mijn_ssid"
@@ -24,7 +24,7 @@
 #define OTA_username "OTA_username"
 #endif
 #ifndef OTA_password
-#define OTA_username "OTA_username"
+#define OTA_password "OTA_username"
 #endif
 
 #warning -------------------Warning secrets!!------------------------
